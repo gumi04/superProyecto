@@ -8,7 +8,7 @@ Descripcion del proeycto parraforde prueba
 
 
 # Enlaces
-- [Pagina de git](https://github.com/);
+- [Pagina de git](https://github.com/)
 
 # Instrucciones
 - Abrir el navegador
