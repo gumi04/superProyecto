@@ -14,3 +14,4 @@ Descripcion del proeycto parraforde prueba
 - Abrir el navegador
 - Tener conexion d internet
 - Se debe instalar java
+- Master 2
