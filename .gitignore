@@ -1,2 +1,10 @@
 *.png
 *.pdf
+
+### Seccion de archivos zip ###
+zip/*.zip
+
+# secion binarios#
+dist/
+
+
