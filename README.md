@@ -15,3 +15,5 @@ Descripcion del proeycto parraforde prueba
 - Tener conexion d internet
 - Se debe instalar java
 - Master 2
+
+- proyecto de gumster
