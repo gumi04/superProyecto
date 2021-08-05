@@ -13,3 +13,7 @@ Descripcion del proeycto parraforde prueba
 # Instrucciones
 - Abrir el navegador
 - Tener conexion d internet
+- Se debe instalar java
+- Master 2
+
+- proyecto de gumster
